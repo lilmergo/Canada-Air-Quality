@@ -1,4 +1,4 @@
-# Canada Air Quality Dashboard
+# Canada Air Quality Dashboard - PM2.5 and O3 Levels vs Wildfire Seasons
 
 Welcome to the **Canada Air Quality Dashboard**, a data visualization project focused on analyzing monthly PM2.5 and O₃ levels across Canadian cities, with a particular emphasis on wildfire seasons (May–September). This dashboard provides insights into pollutant trends and correlations across locations of various geographic categories, helping users understand air quality dynamics in wildfire-prone and urban areas.
 This is an ongoing project, more analysis and data collecting to come!
